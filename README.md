@@ -26,4 +26,5 @@ CLERK_FRONTEND_API_URL (Get the JWT URL from Clerk dashboard and add to the conv
 Helpful Links:
 
 Clerk with Convex: https://clerk.com/docs/integrations/databases/convex
+
 Payments with Clerk: https://clerk.com/docs/nextjs/billing/b2c-saas
