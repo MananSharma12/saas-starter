@@ -16,12 +16,12 @@ npx convex dev
 
 We would need the following env variables:
 
-CONVEX_DEPLOYMENT (Auto generated)
-NEXT_PUBLIC_CONVEX_URL (Auto generated)
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY (Auto generated)
-CLERK_SECRET_KEY (Auto generated)
+`CONVEX_DEPLOYMENT` (Auto generated)
+`NEXT_PUBLIC_CONVEX_URL` (Auto generated)
+`NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` (Auto generated)
+`CLERK_SECRET_KEY` (Auto generated)
 
-CLERK_FRONTEND_API_URL (Get the JWT URL from Clerk dashboard and add to the convex env variables as well)
+`CLERK_FRONTEND_API_URL` (Get the JWT URL from Clerk dashboard and add to the convex env variables as well)
 
 Helpful Links:
 
